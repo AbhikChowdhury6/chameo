@@ -1,0 +1,23 @@
+install rasbian jessie and Snips on your pi
+    https://www.hackster.io/matrix-labs/matrix-voice-and-matrix-creator-running-snips-ai-b48344
+
+
+
+add the matrix voice odas direction of arrival demo
+    https://www.hackster.io/matrix-labs/direction-of-arrival-for-matrix-voice-creator-using-odas-b7a15b
+    change the /config/matrix-demo/matrix_voice.cfg
+
+add the Chameo app to your assistant
+    *link
+
+clone the repo to your raspberry pi
+    install git
+    install flask
+    instal textBlob https://textblob.readthedocs.io/en/dev/install.html
+    run app.py from the repo
+
+
+
+configure to start on boot
+- asr service
+- direction service
